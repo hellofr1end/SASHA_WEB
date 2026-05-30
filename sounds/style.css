@@ -1,1 +1,12 @@
 
+body{
+    margin-top: 200px
+}
+
+.negr{
+    display: none;
+}
+
+.negr.active{
+    display: block;
+}
